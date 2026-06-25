@@ -12,7 +12,7 @@
 
 ## 核心方法
 
-这个 Skill 来自一篇关于如何用 Claude 高效学习的文章启发：
+这个 Skill 来自一篇关于如何用 Codex 高效学习的文章启发：
 
 https://x.com/sairahul1/status/2068250224532050089
 
