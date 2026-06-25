@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 学习教练"
+  short_description: "用 AI 规划路径、主动测验、压缩复习并修补理解缺口"
+  default_prompt: "Use $ai-learning-coach-zh to help me learn a new topic with a structured path, active recall, cheat sheets, and Feynman loops."
